@@ -1,5 +1,4 @@
 import Lottie from 'react-lottie';
-import logo from './logo.svg';
 import './App.css';
 import * as rocket_launch from './rocket-launch.json'
 
@@ -30,7 +29,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href=""
+          href="https://medium.com/firebase-developers/the-comprehensive-guide-to-github-actions-and-firebase-hosting-818502d86c31"
           target="_blank"
           rel="noopener noreferrer"
         >
