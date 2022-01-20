@@ -30,7 +30,7 @@ jobs:
           name: public
           path: public
       - name: Deploy to firebase
-        uses: firebase-automatic-deploy-with-github-actions@master
+        uses: hendrixgotcodes/firebase-automatic-deploy-with-github-actions@master
         with:
           args: deploy --only hosting
         env:
