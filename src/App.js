@@ -1,5 +1,4 @@
 import Lottie from 'react-lottie';
-import logo from './logo.svg';
 import './App.css';
 import * as rocket_launch from './rocket-launch.json'
 
